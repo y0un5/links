@@ -11,6 +11,7 @@
 ## 알고리즘
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Common Pitfalls in Writing Lock-Free Algorithms](http://blog.memsql.com/common-pitfalls-in-writing-lock-free-algorithms/)
+* [Proving that Android’s, Java’s and Python’s sorting algorithm is broken (and showing how to fix it)](http://envisage-project.eu/proving-android-java-and-python-sorting-algorithm-is-broken-and-how-to-fix-it/)
 
 ## 데이터베이스
 * [A Brief History of Databases](http://avant.org/media/history-of-databases)
@@ -29,7 +30,13 @@
 * [tmux 입문자 시리즈 요약](http://we.weirdmeetup.com/tmux-%EC%9E%85%EB%AC%B8%EC%9E%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9A%94%EC%95%BD/)
 
 ## 책
+* [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Think Bayes](http://www.greenteapress.com/thinkbayes/)
+
+## MOOC
+* https://www.coursera.org/
+* https://www.khanacademy.org/
+* https://www.udacity.com/
 
 ## 기타
 * [지금 하는 일들을 절반의 시간 안에 해야 한다면?](http://agile.egloos.com/5838463)
