@@ -30,6 +30,7 @@
 * [tmux 입문자 시리즈 요약](http://we.weirdmeetup.com/tmux-%EC%9E%85%EB%AC%B8%EC%9E%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9A%94%EC%95%BD/)
 
 ## 책
+* [Free Programming Books](http://projectfenix.com/programing/free-programming-books/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Think Bayes](http://www.greenteapress.com/thinkbayes/)
 
