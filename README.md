@@ -38,6 +38,9 @@
 * https://www.coursera.org/
 * https://www.khanacademy.org/
 * https://www.udacity.com/
+* http://www.pluralsight.com/
+* http://www.lynda.com/
+* https://www.codeschool.com/
 
 ## 기타
 * [지금 하는 일들을 절반의 시간 안에 해야 한다면?](http://agile.egloos.com/5838463)
