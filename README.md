@@ -59,3 +59,4 @@
 * [Is Eventual Consistency Useful?](http://pl.atyp.us/wordpress/index.php/2013/03/is-eventual-consistency-useful/)
 * [Taba: Low Latency Event Aggregation](http://www.tellapart.com/taba-low-latency-event-aggregation/)
 * [Beyond Threads And Callbacks - Application Architecture Pros And Cons](http://highscalability.com/blog/2013/3/18/beyond-threads-and-callbacks-application-architecture-pros-a.html)
+* [팟캐스트 - 나는 프로그래머다](http://iamprogrammer.io/)
