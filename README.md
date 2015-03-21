@@ -19,6 +19,7 @@
 ## 성능
 * [http://mechanical-sympathy.blogspot.kr/](http://mechanical-sympathy.blogspot.kr/)
 * [Why average latency is a terrible way to track website performance … and how to fix it](http://mvolo.com/why-average-latency-is-a-terrible-way-to-track-website-performance-and-how-to-fix-it/)
+* [Searching 20 GB/sec: Systems Engineering Before Algorithms](http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/)
 
 ## 검색
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
@@ -33,6 +34,11 @@
 * [Free Programming Books](http://projectfenix.com/programing/free-programming-books/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Think Bayes](http://www.greenteapress.com/thinkbayes/)
+* [linux-insides](https://www.gitbook.com/book/0xax/linux-insides/details)
+
+## 라이브러리
+* [hashids - generate short unique ids from integers](http://hashids.org/)
+* [JavaFastPFOR: A simple integer compression library in Java](https://github.com/lemire/JavaFastPFOR) 
 
 ## MOOC
 * https://www.coursera.org/
@@ -53,5 +59,3 @@
 * [Is Eventual Consistency Useful?](http://pl.atyp.us/wordpress/index.php/2013/03/is-eventual-consistency-useful/)
 * [Taba: Low Latency Event Aggregation](http://www.tellapart.com/taba-low-latency-event-aggregation/)
 * [Beyond Threads And Callbacks - Application Architecture Pros And Cons](http://highscalability.com/blog/2013/3/18/beyond-threads-and-callbacks-application-architecture-pros-a.html)
-* 
-
