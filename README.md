@@ -1,7 +1,8 @@
 # links
 
-## C
+## C/C++
 * [What a C programmer should know about memory](http://marek.vavrusa.com/c/memory/2015/02/20/memory/)
+* [Awesome C/C++](https://fffaraz.github.io/awesome-cpp/)
 
 ## Scala
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
