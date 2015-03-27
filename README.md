@@ -9,6 +9,10 @@
 * [A-Z of Programming Languages: Scala](http://www.computerworld.com.au/article/315254/a-z_programming_languages_scala/)
 * [Resources for Getting Started with Functional Programming and Scala](http://nerd.kelseyinnis.com/blog/2013/01/07/resources-for-getting-started-with-functional-programming-and-scala/)
 
+## Go
+* [Fulfilling a Pikedream: the ups of downs of porting 50k lines of C++ to Go.](https://togototo.wordpress.com/2015/03/07/fulfilling-a-pikedream-the-ups-of-downs-of-porting-50k-lines-of-c-to-go/)
+* [Why Go’s design is a disservice to intelligent programmers](http://nomad.so/2015/03/why-gos-design-is-a-disservice-to-intelligent-programmers/)
+
 ## 알고리즘
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Common Pitfalls in Writing Lock-Free Algorithms](http://blog.memsql.com/common-pitfalls-in-writing-lock-free-algorithms/)
@@ -30,12 +34,17 @@
 
 ## 검색
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
+* [Firefly – Instant, Full-Text Search Engine for Dropbox (Part 1)](https://blogs.dropbox.com/tech/2015/03/firefly-instant-full-text-search-engine/)
 
 ## 논문
+* [Metadata](http://muratbuffalo.blogspot.kr/)
 * [Paper: Scalable Atomic Visibility With RAMP Transactions - Scale Linearly To 100 Servers](http://highscalability.com/blog/2014/4/10/paper-scalable-atomic-visibility-with-ramp-transactions-scal.html)
 
 ## 개발 도구
 * [tmux 입문자 시리즈 요약](http://we.weirdmeetup.com/tmux-%EC%9E%85%EB%AC%B8%EC%9E%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9A%94%EC%95%BD/)
+
+## 팀 / 개발 문화
+* [LESSONS LEARNED FROM SCALING A PRODUCT TEAM](https://blog.intercom.io/how-we-build-software/)
 
 ## 책
 * [Free Programming Books](http://projectfenix.com/programing/free-programming-books/)
