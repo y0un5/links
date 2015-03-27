@@ -16,11 +16,17 @@
 
 ## 데이터베이스
 * [A Brief History of Databases](http://avant.org/media/history-of-databases)
+* [Readings in Databases](https://github.com/rxin/db-readings)
+
+## 분산 시스템
+* [You Cannot Have Exactly-Once Delivery](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
 
 ## 성능
 * [http://mechanical-sympathy.blogspot.kr/](http://mechanical-sympathy.blogspot.kr/)
 * [Why average latency is a terrible way to track website performance … and how to fix it](http://mvolo.com/why-average-latency-is-a-terrible-way-to-track-website-performance-and-how-to-fix-it/)
 * [Searching 20 GB/sec: Systems Engineering Before Algorithms](http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/)
+* [Correcting YCSB's Coordinated Omission problem](http://psy-lob-saw.blogspot.com.tr/2015/03/fixing-ycsb-coordinated-omission.html)
+* [Stuff I Learned about Performance](http://www.infoq.com/presentations/performance-safety)
 
 ## 검색
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
@@ -36,6 +42,7 @@
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Think Bayes](http://www.greenteapress.com/thinkbayes/)
 * [linux-insides](https://www.gitbook.com/book/0xax/linux-insides/details)
+* [Principles of Programming Languages](http://www.cs.jhu.edu/~scott/pl/book/dist/)
 
 ## 라이브러리
 * [hashids - generate short unique ids from integers](http://hashids.org/)
@@ -61,3 +68,4 @@
 * [Taba: Low Latency Event Aggregation](http://www.tellapart.com/taba-low-latency-event-aggregation/)
 * [Beyond Threads And Callbacks - Application Architecture Pros And Cons](http://highscalability.com/blog/2013/3/18/beyond-threads-and-callbacks-application-architecture-pros-a.html)
 * [팟캐스트 - 나는 프로그래머다](http://iamprogrammer.io/)
+* [Unorthodocs: Abandon your DVCS and Return to Sanity](http://bitquabit.com/post/unorthodocs-abandon-your-dvcs-and-return-to-sanity/)
