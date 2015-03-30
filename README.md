@@ -21,6 +21,7 @@
 ## 데이터베이스
 * [A Brief History of Databases](http://avant.org/media/history-of-databases)
 * [Readings in Databases](https://github.com/rxin/db-readings)
+* [The confusing CAP and ACID wording](http://thislongrun.blogspot.kr/2015/03/the-confusing-cap-and-acid-wording.html)
 
 ## 분산 시스템
 * [You Cannot Have Exactly-Once Delivery](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
