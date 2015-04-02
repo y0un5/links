@@ -8,6 +8,10 @@
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 * [A-Z of Programming Languages: Scala](http://www.computerworld.com.au/article/315254/a-z_programming_languages_scala/)
 * [Resources for Getting Started with Functional Programming and Scala](http://nerd.kelseyinnis.com/blog/2013/01/07/resources-for-getting-started-with-functional-programming-and-scala/)
+* [ScalaPB - Protocol Buffer Compiler for Scala](http://trueaccord.github.io/ScalaPB/)
+
+## Java
+* [ChronicleMap - Java Architecture using Off Heap Memory](http://www.rationaljava.com/2015/03/chroniclemap-java-architecture-with-off.html)
 
 ## Go
 * [Fulfilling a Pikedream: the ups of downs of porting 50k lines of C++ to Go.](https://togototo.wordpress.com/2015/03/07/fulfilling-a-pikedream-the-ups-of-downs-of-porting-50k-lines-of-c-to-go/)
