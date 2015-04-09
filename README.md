@@ -29,6 +29,7 @@
 
 ## 분산 시스템
 * [You Cannot Have Exactly-Once Delivery](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
+* [Stellar Consensus Protocol: Proof and Code](https://www.stellar.org/blog/stellar-consensus-protocol-proof-code/)
 
 ## 성능
 * [http://mechanical-sympathy.blogspot.kr/](http://mechanical-sympathy.blogspot.kr/)
@@ -41,6 +42,9 @@
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
 * [Firefly – Instant, Full-Text Search Engine for Dropbox (Part 1)](https://blogs.dropbox.com/tech/2015/03/firefly-instant-full-text-search-engine/)
 * [Building a complete Tweet index](https://blog.twitter.com/2014/building-a-complete-tweet-index)
+
+## 통계학
+* http://en.wikipedia.org/wiki/Percentile
 
 ## 논문
 * [Metadata](http://muratbuffalo.blogspot.kr/)
@@ -84,3 +88,4 @@
 * [Beyond Threads And Callbacks - Application Architecture Pros And Cons](http://highscalability.com/blog/2013/3/18/beyond-threads-and-callbacks-application-architecture-pros-a.html)
 * [팟캐스트 - 나는 프로그래머다](http://iamprogrammer.io/)
 * [Unorthodocs: Abandon your DVCS and Return to Sanity](http://bitquabit.com/post/unorthodocs-abandon-your-dvcs-and-return-to-sanity/)
+* [실리콘 밸리에서 가장 중요한 문서](https://jigjang.wordpress.com/2015/04/08/%EC%8B%A4%EB%A6%AC%EC%BD%98-%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EB%AC%B8%EC%84%9C/)
