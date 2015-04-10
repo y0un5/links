@@ -62,6 +62,7 @@
 * [Think Bayes](http://www.greenteapress.com/thinkbayes/)
 * [linux-insides](https://www.gitbook.com/book/0xax/linux-insides/details)
 * [Principles of Programming Languages](http://www.cs.jhu.edu/~scott/pl/book/dist/)
+* [Designing Data-Intensive Applications](http://dataintensive.net/)
 
 ## 라이브러리
 * [hashids - generate short unique ids from integers](http://hashids.org/)
@@ -74,6 +75,9 @@
 * http://www.pluralsight.com/
 * http://www.lynda.com/
 * https://www.codeschool.com/
+
+## Online Judge
+* http://www.acmicpc.net/
 
 ## 기타
 * [지금 하는 일들을 절반의 시간 안에 해야 한다면?](http://agile.egloos.com/5838463)
