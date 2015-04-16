@@ -1,5 +1,8 @@
 # links
 
+## 프로그래밍 일반
+* https://refactoring.guru/
+
 ## C/C++
 * [What a C programmer should know about memory](http://marek.vavrusa.com/c/memory/2015/02/20/memory/)
 * [Awesome C/C++](https://fffaraz.github.io/awesome-cpp/)
@@ -52,6 +55,9 @@
 
 ## 개발 도구
 * [tmux 입문자 시리즈 요약](http://we.weirdmeetup.com/tmux-%EC%9E%85%EB%AC%B8%EC%9E%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9A%94%EC%95%BD/)
+
+## Utility
+* [THE LOG FILE NAVIGATOR](http://lnav.org/)
 
 ## 팀 / 개발 문화
 * [LESSONS LEARNED FROM SCALING A PRODUCT TEAM](https://blog.intercom.io/how-we-build-software/)
