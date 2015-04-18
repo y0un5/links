@@ -15,6 +15,7 @@
 
 ## Java
 * [ChronicleMap - Java Architecture using Off Heap Memory](http://www.rationaljava.com/2015/03/chroniclemap-java-architecture-with-off.html)
+* [The Four Month Bug: JVM statistics cause garbage collection pauses](http://www.evanjones.ca/jvm-mmap-pause.html)
 
 ## Go
 * [Fulfilling a Pikedream: the ups of downs of porting 50k lines of C++ to Go.](https://togototo.wordpress.com/2015/03/07/fulfilling-a-pikedream-the-ups-of-downs-of-porting-50k-lines-of-c-to-go/)
@@ -29,6 +30,7 @@
 * [A Brief History of Databases](http://avant.org/media/history-of-databases)
 * [Readings in Databases](https://github.com/rxin/db-readings)
 * [The confusing CAP and ACID wording](http://thislongrun.blogspot.kr/2015/03/the-confusing-cap-and-acid-wording.html)
+* [modern emeddable key-value database](https://github.com/pmwkaa/sophia)
 
 ## 분산 시스템
 * [You Cannot Have Exactly-Once Delivery](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
@@ -69,6 +71,7 @@
 * [linux-insides](https://www.gitbook.com/book/0xax/linux-insides/details)
 * [Principles of Programming Languages](http://www.cs.jhu.edu/~scott/pl/book/dist/)
 * [Designing Data-Intensive Applications](http://dataintensive.net/)
+* [Real World OCaml](https://realworldocaml.org/)
 
 ## 라이브러리
 * [hashids - generate short unique ids from integers](http://hashids.org/)
