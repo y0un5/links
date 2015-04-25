@@ -6,6 +6,7 @@
 ## C/C++
 * [What a C programmer should know about memory](http://marek.vavrusa.com/c/memory/2015/02/20/memory/)
 * [Awesome C/C++](https://fffaraz.github.io/awesome-cpp/)
+* [Anatomy of a Program in Memory](http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/)
 
 ## Scala
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
@@ -20,6 +21,9 @@
 ## Go
 * [Fulfilling a Pikedream: the ups of downs of porting 50k lines of C++ to Go.](https://togototo.wordpress.com/2015/03/07/fulfilling-a-pikedream-the-ups-of-downs-of-porting-50k-lines-of-c-to-go/)
 * [Why Go’s design is a disservice to intelligent programmers](http://nomad.so/2015/03/why-gos-design-is-a-disservice-to-intelligent-programmers/)
+
+## Git
+* [10 Years of Git: An Interview with Git Creator Linus Torvalds](http://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds)
 
 ## 알고리즘
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
@@ -42,6 +46,7 @@
 * [Searching 20 GB/sec: Systems Engineering Before Algorithms](http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/)
 * [Correcting YCSB's Coordinated Omission problem](http://psy-lob-saw.blogspot.com.tr/2015/03/fixing-ycsb-coordinated-omission.html)
 * [Stuff I Learned about Performance](http://www.infoq.com/presentations/performance-safety)
+* [High Performance in the Critical Path](https://speakerdeck.com/bevacqua/high-performance-in-the-critical-path)
 
 ## 검색
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
