@@ -35,6 +35,7 @@
 * [Readings in Databases](https://github.com/rxin/db-readings)
 * [The confusing CAP and ACID wording](http://thislongrun.blogspot.kr/2015/03/the-confusing-cap-and-acid-wording.html)
 * [modern emeddable key-value database](https://github.com/pmwkaa/sophia)
+* [Disambiguating ACID and CAP](https://voltdb.com/blog/disambiguating-acid-and-cap)
 
 ## 분산 시스템
 * [You Cannot Have Exactly-Once Delivery](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
