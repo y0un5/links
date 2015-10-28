@@ -17,6 +17,7 @@
 ## Java
 * [ChronicleMap - Java Architecture using Off Heap Memory](http://www.rationaljava.com/2015/03/chroniclemap-java-architecture-with-off.html)
 * [The Four Month Bug: JVM statistics cause garbage collection pauses](http://www.evanjones.ca/jvm-mmap-pause.html)
+* [JAR Hell](http://blog.codefx.org/java/jar-hell/)
 
 ## Go
 * [Fulfilling a Pikedream: the ups of downs of porting 50k lines of C++ to Go.](https://togototo.wordpress.com/2015/03/07/fulfilling-a-pikedream-the-ups-of-downs-of-porting-50k-lines-of-c-to-go/)
