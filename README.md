@@ -96,6 +96,8 @@
 
 ## Online Judge
 * http://www.acmicpc.net/
+* https://algospot.com/
+* http://www.programming-challenges.com/
 
 ## 기타
 * [지금 하는 일들을 절반의 시간 안에 해야 한다면?](http://agile.egloos.com/5838463)
