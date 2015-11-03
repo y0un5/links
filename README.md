@@ -37,6 +37,8 @@
 * [The confusing CAP and ACID wording](http://thislongrun.blogspot.kr/2015/03/the-confusing-cap-and-acid-wording.html)
 * [modern emeddable key-value database](https://github.com/pmwkaa/sophia)
 * [Disambiguating ACID and CAP](https://voltdb.com/blog/disambiguating-acid-and-cap)
+* [Coordination Avoidance in Distributed Databases](http://www.bailis.org/papers/bailis-thesis.pdf)
+* [Why MongoDB, Cassandra, HBase, DynamoDB, and Riak will only let you perform transactions on a single data item](http://dbmsmusings.blogspot.kr/2015/10/why-mongodb-cassandra-hbase-dynamodb_28.html)
 
 ## 분산 시스템
 * [You Cannot Have Exactly-Once Delivery](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
