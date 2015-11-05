@@ -18,6 +18,7 @@
 * [ChronicleMap - Java Architecture using Off Heap Memory](http://www.rationaljava.com/2015/03/chroniclemap-java-architecture-with-off.html)
 * [The Four Month Bug: JVM statistics cause garbage collection pauses](http://www.evanjones.ca/jvm-mmap-pause.html)
 * [JAR Hell](http://blog.codefx.org/java/jar-hell/)
+* [JavaOne 2015 Sessions](https://www.reddit.com/r/java/comments/3requx/javaone_2015_sessions/)
 
 ## Go
 * [Fulfilling a Pikedream: the ups of downs of porting 50k lines of C++ to Go.](https://togototo.wordpress.com/2015/03/07/fulfilling-a-pikedream-the-ups-of-downs-of-porting-50k-lines-of-c-to-go/)
@@ -43,6 +44,7 @@
 ## 분산 시스템
 * [You Cannot Have Exactly-Once Delivery](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
 * [Stellar Consensus Protocol: Proof and Code](https://www.stellar.org/blog/stellar-consensus-protocol-proof-code/)
+* [Distributed Consensus Reloaded: Apache ZooKeeper and Replication in Apache Kafka](http://www.confluent.io/blog/distributed-consensus-reloaded-apache-zookeeper-and-replication-in-kafka)
 
 ## 성능
 * [http://mechanical-sympathy.blogspot.kr/](http://mechanical-sympathy.blogspot.kr/)
