@@ -32,6 +32,9 @@
 * [Common Pitfalls in Writing Lock-Free Algorithms](http://blog.memsql.com/common-pitfalls-in-writing-lock-free-algorithms/)
 * [Proving that Android’s, Java’s and Python’s sorting algorithm is broken (and showing how to fix it)](http://envisage-project.eu/proving-android-java-and-python-sorting-algorithm-is-broken-and-how-to-fix-it/)
 
+## OS
+* [The little book about OS development](https://littleosbook.github.io/)
+
 ## 데이터베이스
 * [A Brief History of Databases](http://avant.org/media/history-of-databases)
 * [Readings in Databases](https://github.com/rxin/db-readings)
