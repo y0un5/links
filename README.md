@@ -72,6 +72,7 @@
 
 ## 개발 도구
 * [tmux 입문자 시리즈 요약](http://we.weirdmeetup.com/tmux-%EC%9E%85%EB%AC%B8%EC%9E%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9A%94%EC%95%BD/)
+* [PuTTY + powerline](http://pdalinis.blogspot.kr/2013/08/putty-powerline.html)
 
 ## Utility
 * [THE LOG FILE NAVIGATOR](http://lnav.org/)
