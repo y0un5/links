@@ -57,6 +57,7 @@
 * [Stuff I Learned about Performance](http://www.infoq.com/presentations/performance-safety)
 * [High Performance in the Critical Path](https://speakerdeck.com/bevacqua/high-performance-in-the-critical-path)
 * [Linux Performance Analysis in 60,000 Milliseconds](https://media.netflix.com/en/tech-blog/linux-performance-analysis-in-60-000-milliseconds)
+* [Timing is everything](http://epickrram.blogspot.co.uk/2016/01/timing-is-everything.html)
 
 ## 검색
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
