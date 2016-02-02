@@ -89,6 +89,7 @@
 * [Principles of Programming Languages](http://www.cs.jhu.edu/~scott/pl/book/dist/)
 * [Designing Data-Intensive Applications](http://dataintensive.net/)
 * [Real World OCaml](https://realworldocaml.org/)
+* [How to be a Programmer: Community Version](https://github.com/braydie/HowToBeAProgrammer)
 
 ## 라이브러리
 * [hashids - generate short unique ids from integers](http://hashids.org/)
