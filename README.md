@@ -48,6 +48,7 @@
 * [You Cannot Have Exactly-Once Delivery](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
 * [Stellar Consensus Protocol: Proof and Code](https://www.stellar.org/blog/stellar-consensus-protocol-proof-code/)
 * [Distributed Consensus Reloaded: Apache ZooKeeper and Replication in Apache Kafka](http://www.confluent.io/blog/distributed-consensus-reloaded-apache-zookeeper-and-replication-in-kafka)
+* [From the Ground Up: Reasoning About Distributed Systems in the Real World](http://bravenewgeek.com/from-the-ground-up-reasoning-about-distributed-systems-in-the-real-world/)
 
 ## 성능
 * [http://mechanical-sympathy.blogspot.kr/](http://mechanical-sympathy.blogspot.kr/)
@@ -58,6 +59,7 @@
 * [High Performance in the Critical Path](https://speakerdeck.com/bevacqua/high-performance-in-the-critical-path)
 * [Linux Performance Analysis in 60,000 Milliseconds](https://media.netflix.com/en/tech-blog/linux-performance-analysis-in-60-000-milliseconds)
 * [Timing is everything](http://epickrram.blogspot.co.uk/2016/01/timing-is-everything.html)
+* [How To Choose An In-Memory NoSQL Solution: Performance Measuring](http://highscalability.com/blog/2015/12/30/how-to-choose-an-in-memory-nosql-solution-performance-measur.html)
 
 ## 검색
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
@@ -70,6 +72,7 @@
 ## 논문
 * [Metadata](http://muratbuffalo.blogspot.kr/)
 * [Paper: Scalable Atomic Visibility With RAMP Transactions - Scale Linearly To 100 Servers](http://highscalability.com/blog/2014/4/10/paper-scalable-atomic-visibility-with-ramp-transactions-scal.html)
+* [the morning paper](http://blog.acolyer.org/)
 
 ## 개발 도구
 * [tmux 입문자 시리즈 요약](http://we.weirdmeetup.com/tmux-%EC%9E%85%EB%AC%B8%EC%9E%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%9A%94%EC%95%BD/)
