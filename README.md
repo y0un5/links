@@ -24,6 +24,12 @@
 * [Fulfilling a Pikedream: the ups of downs of porting 50k lines of C++ to Go.](https://togototo.wordpress.com/2015/03/07/fulfilling-a-pikedream-the-ups-of-downs-of-porting-50k-lines-of-c-to-go/)
 * [Why Go’s design is a disservice to intelligent programmers](http://nomad.so/2015/03/why-gos-design-is-a-disservice-to-intelligent-programmers/)
 
+## Haskell
+* [하스켈 학교](http://kseo.github.io/haskellschool/)
+
+## 인코딩
+* [웹개발자를 위한 문자 인코딩 기초 #1 – ASCII 코드](http://dev.epiloum.net/164)
+
 ## Git
 * [10 Years of Git: An Interview with Git Creator Linus Torvalds](http://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds)
 
@@ -105,6 +111,7 @@
 * http://www.pluralsight.com/
 * http://www.lynda.com/
 * https://www.codeschool.com/
+* [MIT Open Courseware Linear Algebra](http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm)
 
 ## Online Judge
 * http://www.acmicpc.net/
