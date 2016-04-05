@@ -13,6 +13,7 @@
 * [A-Z of Programming Languages: Scala](http://www.computerworld.com.au/article/315254/a-z_programming_languages_scala/)
 * [Resources for Getting Started with Functional Programming and Scala](http://nerd.kelseyinnis.com/blog/2013/01/07/resources-for-getting-started-with-functional-programming-and-scala/)
 * [ScalaPB - Protocol Buffer Compiler for Scala](http://trueaccord.github.io/ScalaPB/)
+* [Interop Between Java and Scala](http://www.codecommit.com/blog/java/interop-between-java-and-scala)
 
 ## Java
 * [ChronicleMap - Java Architecture using Off Heap Memory](http://www.rationaljava.com/2015/03/chroniclemap-java-architecture-with-off.html)
