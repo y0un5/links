@@ -73,6 +73,7 @@
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
 * [Firefly – Instant, Full-Text Search Engine for Dropbox (Part 1)](https://blogs.dropbox.com/tech/2015/03/firefly-instant-full-text-search-engine/)
 * [Building a complete Tweet index](https://blog.twitter.com/2014/building-a-complete-tweet-index)
+* [BM25 demystified](https://berlinbuzzwords.de/session/bm25-demystified)
 
 ## 통계학
 * http://en.wikipedia.org/wiki/Percentile
