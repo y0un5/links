@@ -21,6 +21,8 @@
 * [JAR Hell](http://blog.codefx.org/java/jar-hell/)
 * [JavaOne 2015 Sessions](https://www.reddit.com/r/java/comments/3requx/javaone_2015_sessions/)
 * [Aleksey Shipilëv blog](http://shipilev.net/)
+* [The Java memory model made easy](https://2016.javazone.no/program/the-java-memory-model-made-easy)
+* [The JVM Architecture Explained](https://dzone.com/articles/jvm-architecture-explained)
 
 ## Go
 * [Fulfilling a Pikedream: the ups of downs of porting 50k lines of C++ to Go.](https://togototo.wordpress.com/2015/03/07/fulfilling-a-pikedream-the-ups-of-downs-of-porting-50k-lines-of-c-to-go/)
