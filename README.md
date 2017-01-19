@@ -80,6 +80,10 @@
 ## 통계학
 * http://en.wikipedia.org/wiki/Percentile
 
+## Machine Learning
+* http://sanghyukchun.github.io/blog/categories/machine-learning/
+* [Gradient Descent Derivation](http://mccormickml.com/2014/03/04/gradient-descent-derivation/)
+
 ## 논문
 * [Metadata](http://muratbuffalo.blogspot.kr/)
 * [Paper: Scalable Atomic Visibility With RAMP Transactions - Scale Linearly To 100 Servers](http://highscalability.com/blog/2014/4/10/paper-scalable-atomic-visibility-with-ramp-transactions-scal.html)
@@ -141,3 +145,4 @@
 * [Unorthodocs: Abandon your DVCS and Return to Sanity](http://bitquabit.com/post/unorthodocs-abandon-your-dvcs-and-return-to-sanity/)
 * [실리콘 밸리에서 가장 중요한 문서](https://jigjang.wordpress.com/2015/04/08/%EC%8B%A4%EB%A6%AC%EC%BD%98-%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EB%AC%B8%EC%84%9C/)
 * [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
+* [Near Duplicate Documents Detection](https://github.com/aragorn/home/wiki/Near-Duplicate-Documents-Detection)
