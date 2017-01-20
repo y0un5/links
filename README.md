@@ -83,6 +83,7 @@
 ## Machine Learning
 * http://sanghyukchun.github.io/blog/categories/machine-learning/
 * [Gradient Descent Derivation](http://mccormickml.com/2014/03/04/gradient-descent-derivation/)
+* [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/)
 
 ## 논문
 * [Metadata](http://muratbuffalo.blogspot.kr/)
