@@ -111,6 +111,7 @@
 * [How to be a Programmer: Community Version](https://github.com/braydie/HowToBeAProgrammer)
 * [Deep Learning](http://www.deeplearningbook.org/)
 * [가장 빨리 만나는 Docker](http://pyrasis.com/docker.html)
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 ## 라이브러리
 * [hashids - generate short unique ids from integers](http://hashids.org/)
