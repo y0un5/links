@@ -60,6 +60,7 @@
 * [Stellar Consensus Protocol: Proof and Code](https://www.stellar.org/blog/stellar-consensus-protocol-proof-code/)
 * [Distributed Consensus Reloaded: Apache ZooKeeper and Replication in Apache Kafka](http://www.confluent.io/blog/distributed-consensus-reloaded-apache-zookeeper-and-replication-in-kafka)
 * [From the Ground Up: Reasoning About Distributed Systems in the Real World](http://bravenewgeek.com/from-the-ground-up-reasoning-about-distributed-systems-in-the-real-world/)
+* [Distributed Locks are Dead; Long Live Distributed Locks!](https://hazelcast.com/blog/long-live-distributed-locks/)
 
 ## 성능
 * [http://mechanical-sympathy.blogspot.kr/](http://mechanical-sympathy.blogspot.kr/)
