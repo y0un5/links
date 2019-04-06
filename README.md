@@ -53,6 +53,7 @@
 * [Disambiguating ACID and CAP](https://voltdb.com/blog/disambiguating-acid-and-cap)
 * [Coordination Avoidance in Distributed Databases](http://www.bailis.org/papers/bailis-thesis.pdf)
 * [Why MongoDB, Cassandra, HBase, DynamoDB, and Riak will only let you perform transactions on a single data item](http://dbmsmusings.blogspot.kr/2015/10/why-mongodb-cassandra-hbase-dynamodb_28.html)
+* [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
 
 ## 분산 시스템
 * [You Cannot Have Exactly-Once Delivery](http://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
