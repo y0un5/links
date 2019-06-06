@@ -87,6 +87,7 @@
 * [Gradient Descent Derivation](http://mccormickml.com/2014/03/04/gradient-descent-derivation/)
 * [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/)
 * [인공신경망 학습 레시피 (번역)](https://medium.com/@bntejn/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%ED%95%99%EC%8A%B5-%EB%A0%88%EC%8B%9C%ED%94%BC-%EB%B2%88%EC%97%AD-70c5e58341ec)
+* [Deep Learning Models](https://github.com/rasbt/deeplearning-models)
 
 ## 논문
 * [Metadata](http://muratbuffalo.blogspot.kr/)
