@@ -117,6 +117,7 @@
 * [가장 빨리 만나는 Docker](http://pyrasis.com/docker.html)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 * [Database Internals](https://www.databass.dev/)
+* [The Rust Programming Language(번역)](https://rinthel.github.io/rust-lang-book-ko/)
 
 ## 라이브러리
 * [hashids - generate short unique ids from integers](http://hashids.org/)
