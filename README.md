@@ -81,6 +81,7 @@
 
 ## 통계학
 * http://en.wikipedia.org/wiki/Percentile
+* [친절한 데이터 사이언티스트 되기 강좌](https://recipesds.tistory.com/)
 
 ## Machine Learning
 * http://sanghyukchun.github.io/blog/categories/machine-learning/
